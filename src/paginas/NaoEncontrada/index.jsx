@@ -1,4 +1,4 @@
-import BotaoPrincipal from 'componentes/BotaoPrincipal'
+import BotaoPrincipal from '../../componentes/BotaoPrincipal'
 import styles from './NaoEncontrada.module.css'
 import erro404 from '../../assets/erro_404.png'
 import { useNavigate } from 'react-router-dom'
